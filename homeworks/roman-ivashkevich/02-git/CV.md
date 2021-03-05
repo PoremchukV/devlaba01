@@ -20,3 +20,22 @@ fast learner, motivated, goal-oriented, friendly.
 
 JavaScript, CSS3, HTML5, Gulp, Webpack, SASS, LESS, GIT, Material UI, Bootstrap4,
 NodeJS(elementary), React/Redux(elementary).
+
+### Work-experience
+
+- Dominos Delivery
+  Experience working in a team and stressful situations. Personal responsibility.
+  Sep 2019 - present
+
+- Geodesy - Military photogrammetrist
+  Used terrain images to digitize the electronic map.Learning
+  foreign and national landscapes.
+  Aug 2019 - Apr 2020
+
+### Education
+
+- Rolling Scopes School - JS/FE 2020(JavaScript/Front End)
+  Sep 2020 - Feb 2021
+
+- Polotsk State University - Faculty of information
+  Technologies(Geodesy)
