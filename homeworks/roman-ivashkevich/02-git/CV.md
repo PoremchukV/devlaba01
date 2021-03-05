@@ -45,7 +45,7 @@ JavaScript, CSS3, HTML5, Gulp, Webpack, SASS, LESS, GIT, Material UI, Bootstrap4
 ## Work-examples
 
 - https://github.com/emarf/work-examples
-- Rolling scopes last task repository: https://github.com/SlavaJSFE/rsclone
+- Rolling Scopes School last task repository: https://github.com/SlavaJSFE/rsclone
 - Deploy for last task: https://rsclone-ryms-travel.netlify.app/
 
 ## Languages
