@@ -39,3 +39,4 @@ NodeJS(elementary), React/Redux(elementary).
 
 - Polotsk State University - Faculty of information
   Technologies(Geodesy)
+  Aug 2014 - Jun 2019
