@@ -2,7 +2,8 @@
 
 ### Contacts
 
-roman.ivashkevich963@gmail.com
-+375336100626
-live:.cid.796ab46a28706c76
-@emarf
+Email: roman.ivashkevich963@gmail.com
+Mobile: +375336100626
+Skype: live:.cid.796ab46a28706c76
+Telegram: @emarf
+Location: Belarus, Minsk
