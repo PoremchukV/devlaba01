@@ -35,6 +35,7 @@ NodeJS(elementary), React/Redux(elementary).
 ### Education
 
 - Rolling Scopes School - JS/FE 2020(JavaScript/Front End)
+  credential[https://drive.google.com/file/d/1RYwG4o2kOoQM0dkm1m3x85nSstHelYw9/view]
   Sep 2020 - Feb 2021
 
 - Polotsk State University - Faculty of information
