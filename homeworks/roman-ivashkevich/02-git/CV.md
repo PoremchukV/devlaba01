@@ -40,3 +40,14 @@ NodeJS(elementary), React/Redux(elementary).
 - Polotsk State University - Faculty of information
   Technologies(Geodesy)
   Aug 2014 - Jun 2019
+
+### Work-examples
+
+https://github.com/emarf/work-examples
+Rolling scopes last task repository: https://github.com/SlavaJSFE/rsclone
+Deploy for last task: https://rsclone-ryms-travel.netlify.app/
+
+### Languages
+
+- Russian native
+- English intermediate
